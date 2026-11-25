@@ -1,0 +1,14 @@
+{
+  "name": "mt1-labexam",
+  "version": "1.0.0",
+  "description": "Vehicle Management Web Application - Node.js HTTP and Express REST API lab",
+  "main": "httpServer.js",
+  "type": "commonjs",
+  "scripts": {
+    "start:http": "node httpServer.js",
+    "start:express": "node expressApp.js"
+  },
+  "dependencies": {
+    "express": "^4.21.2"
+  }
+}
